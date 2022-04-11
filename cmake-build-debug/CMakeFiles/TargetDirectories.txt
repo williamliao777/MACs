@@ -1,0 +1,4 @@
+C:/Users/willi/CLionProjects/MACs/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/willi/CLionProjects/MACs/cmake-build-debug/CMakeFiles/CMAC.dir
+C:/Users/willi/CLionProjects/MACs/cmake-build-debug/CMakeFiles/MACs.dir
+C:/Users/willi/CLionProjects/MACs/cmake-build-debug/CMakeFiles/edit_cache.dir
